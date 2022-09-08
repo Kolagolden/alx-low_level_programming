@@ -3,7 +3,7 @@
  * main - Entry point
  *
  * Description : using main function
- * Return:0 
+ * Return : Always 0 
  */
 int main(void)
 {
