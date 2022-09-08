@@ -1,6 +1,5 @@
 #include<stdio.h>
-/**
- *
+/*
  *  * main - Entry point
  *
  *   *
@@ -10,6 +9,6 @@
  *     */
 int main(void)
 {
-		puts("with proper grammar, but the a piece of art, \n");
+		printf("with proper grammar, but the a piece of art, \n");
 			return (0);
 }
